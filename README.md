@@ -4,7 +4,7 @@ The Gym Structural Load Monitoring Dashboard is a MATLAB App Designer applicatio
 
 1. Download or clone the project files.
 2. Ensure the following files are located in the same project directory:
-   - `app3.mlapp`
+   - `app_interactive.mlapp`
    - `zone_occupancy.mat`
    - `zone_metadata.mat`
    - `structural_response_reference.mat`
@@ -12,7 +12,7 @@ The Gym Structural Load Monitoring Dashboard is a MATLAB App Designer applicatio
    - `floor_vibration_acceleration.mat`
 3. Open MATLAB.
 4. Navigate to the project folder.
-5. Open `app3.mlapp`.
+5. Open `app_interactive.mlapp`.
 ---
 
 ## Running the Project
